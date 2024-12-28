@@ -1,0 +1,53 @@
+
+[
+  {
+    "title": "Safe Scrum Master (4.6)",
+    "date": "Oct 11- 13, 2019",
+    "time": "08:30 am - 12:30 pm",
+    "location": "Cit, Banglore",
+    "status": "Filling Fast!!!",
+    "trainer": "G S Prakash",
+    "trainer_designation": "Sr Software Dev",
+    "imageUrl": "https://picsum.photos/id/237/200/300"
+  },
+  {
+    "title": "Flutter Development Course",
+    "date": "Jan 11- 25, 2019",
+    "time": "11:30 am - 03:30 pm",
+    "location": "Dravdian university, Rameshwar",
+    "status": "Grab Now",
+    "trainer": "R K Nair Ramesh",
+    "trainer_designation": "Lead Engineer",
+    "imageUrl": "https://picsum.photos/200"
+  },
+  {
+    "title": "Master of Applied Data Science",
+    "date": "Jan 15- 25, 2022",
+    "time": "11:30 pm - 03:30 am",
+    "location": "CMRIT, Bangalore",
+    "status": "Hurray few left",
+    "trainer": "Manasa Prakash Naidu",
+    "trainer_designation": "Cheif Engineer",
+    "imageUrl": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Safe Scrum Master (4.6)",
+    "date": "Oct 11- 13, 2019",
+    "time": "08:30 am - 12:30 pm",
+    "location": "EST, Banglore",
+    "status": "Filling Fast!!!",
+    "trainer": "G Ramkesh",
+    "trainer_designation": "Sr Software Dev",
+    "imageUrl": "https://picsum.photos/id/237/200/300"
+  },
+  {
+    "title": "Safe Scrum Master (4.6)",
+    "date": "Oct 11- 13, 2019",
+    "time": "08:30 am - 12:30 pm",
+    "location": "RVU, Banglore",
+    "status": "Filling Fast!!!",
+    "trainer": "G S naidu",
+    "trainer_designation": "Sr Software Dev",
+    "imageUrl": "https://picsum.photos/id/237/200/300"
+  }
+]
